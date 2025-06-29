@@ -1,4 +1,4 @@
-const base = '/api';
+const base = import.meta.env.VITE_API_URL || '/api';
 
 export const ping = () =>
   fetch(`${base}/ping`).then(res => res.text());
