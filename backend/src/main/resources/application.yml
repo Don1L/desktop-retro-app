@@ -1,20 +1,17 @@
 spring:
   datasource:
-    url: jdbc:postgresql://dpg-d1gfom21i9vc73ajmpdg-a:5432/desktop_db
+    url: jdbc:postgresql://dpg-d1gfom21i9vc73ajmpdg-a.oregon-postgres.render.com:5432/desktop_db
     username: desktop_db_user
-    password: 0QdOAm2AwtlEdgq1bxiMk0Z1DukfVKSR
+    password: ВСТАВЬ_СЮДА_СВОЙ_ПАРОЛЬ_ИЗ_RENDER
     driver-class-name: org.postgresql.Driver
-
   jpa:
     hibernate:
       ddl-auto: update
     properties:
       hibernate:
         dialect: org.hibernate.dialect.PostgreSQLDialect
-
-  # По желанию: логгирование SQL-запросов
-  jpa:
     show-sql: true
-
-server:
-  port: 8080
+    open-in-view: false
+  sql:
+    init:
+      mode: always
