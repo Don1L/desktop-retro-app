@@ -1,0 +1,15 @@
+com/example/desktop/service/UserService.class
+com/example/desktop/repository/UserRepository.class
+com/example/desktop/service/DesktopService.class
+com/example/desktop/DesktopApplication$1.class
+com/example/desktop/dto/LoginRequest.class
+com/example/desktop/controller/PingController.class
+com/example/desktop/controller/AuthController.class
+com/example/desktop/dto/ShortcutDTO.class
+com/example/desktop/entity/User.class
+com/example/desktop/service/AuthService.class
+com/example/desktop/entity/Shortcut.class
+com/example/desktop/controller/DesktopController.class
+com/example/desktop/DesktopApplication.class
+com/example/desktop/repository/ShortcutRepository.class
+com/example/desktop/dto/RegisterRequest.class

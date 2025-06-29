@@ -1,0 +1,14 @@
+/Users/don1l/Documents/desktop-app/backend/src/main/java/com/example/desktop/entity/User.java
+/Users/don1l/Documents/desktop-app/backend/src/main/java/com/example/desktop/service/UserService.java
+/Users/don1l/Documents/desktop-app/backend/src/main/java/com/example/desktop/DesktopApplication.java
+/Users/don1l/Documents/desktop-app/backend/src/main/java/com/example/desktop/repository/ShortcutRepository.java
+/Users/don1l/Documents/desktop-app/backend/src/main/java/com/example/desktop/controller/PingController.java
+/Users/don1l/Documents/desktop-app/backend/src/main/java/com/example/desktop/service/AuthService.java
+/Users/don1l/Documents/desktop-app/backend/src/main/java/com/example/desktop/repository/UserRepository.java
+/Users/don1l/Documents/desktop-app/backend/src/main/java/com/example/desktop/controller/AuthController.java
+/Users/don1l/Documents/desktop-app/backend/src/main/java/com/example/desktop/dto/LoginRequest.java
+/Users/don1l/Documents/desktop-app/backend/src/main/java/com/example/desktop/controller/DesktopController.java
+/Users/don1l/Documents/desktop-app/backend/src/main/java/com/example/desktop/dto/ShortcutDTO.java
+/Users/don1l/Documents/desktop-app/backend/src/main/java/com/example/desktop/dto/RegisterRequest.java
+/Users/don1l/Documents/desktop-app/backend/src/main/java/com/example/desktop/entity/Shortcut.java
+/Users/don1l/Documents/desktop-app/backend/src/main/java/com/example/desktop/service/DesktopService.java
